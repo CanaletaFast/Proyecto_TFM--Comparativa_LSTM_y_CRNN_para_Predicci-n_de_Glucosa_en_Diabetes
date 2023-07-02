@@ -15,3 +15,6 @@ predicciones más precisas para los siguientes 15 y 30 minutos, especialmente co
 
 Este proyecto ha llevado a cabo una evaluación comparativa minuciosa de los modelos LSTM y CRNN utilizando series temporales para la predicción de los niveles de glucosa en pacientes con diabetes tipo 1. 
 Se exponen los resultados alcanzados, las métricas de rendimiento y se reflexiona sobre las conclusiones extraídas de este análisis exhaustivo.
+
+
+PD: Debido al tamaño del archivo HTML, no es posible visualizarlo directamente en GitHub. Sin embargo, puedes descargarlo para ver su contenido completo.
