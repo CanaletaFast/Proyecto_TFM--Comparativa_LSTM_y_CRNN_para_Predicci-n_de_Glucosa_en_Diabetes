@@ -9,7 +9,7 @@ con el fin de anticipar los niveles de glucosa en pacientes con la enfermedad de
 
 Siguiendo una metodología KDD meticulosa, se seleccionaron y preprocesaron los datos de 5 pacientes de un total de 110, procediendo después a la implementación y evaluación de las arquitecturas LSTM y CRNN.
 Los resultados, en este estudio, obtenidos señalan a que la arquitectura LSTM, al comparar tres configuraciones de hiperparámetros distintas y varias combinaciones de características de entrada, arroja las
-predicciones más precisas para los siguientes 15 y 30 minutos, especialmente con la configuración de hiperparámetros 2 y la combinación de características de entrada 'Measurement + Hypo_Hyper'.
+predicciones más precisas para los siguientes 15 minutos, especialmente con la configuración de hiperparámetros 2 y la combinación de características de entrada 'Measurement + Hypo_Hyper'.
 
 ## Resumen de resultados y conclusiones: 
 
